@@ -14,19 +14,19 @@
     "EMAIL": "ayanbaby09@gmail.com",
     "PASSWORD": "ayanbaby88001",
     "OTPKEY": "",
-    "OWNERLINK": "https://www.facebook.com/AYAN.JANU.LOVE.YOU.MY.HEART",
-    "BOTOWNER": "MR.AYAN",
+    "OWNERLINK": "https://www.facebook.com/profile.php?id=61556585851712",
+    "BOTOWNER": "samiya",
     "STATUS": "Single",
-    "BOTNAME": "•  ➠ 𝘼𝙔𝘼𝙉 ➠𝙍𝙊𝘽𝙊𝙏",
-    "PREFIX": ".",
+    "BOTNAME": "•  samiya bot",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "61557603311017",
+        "61556585851712",
         ""
     ],
       "DESIGN": {
-    "Title": "AYAN-BOT",
+    "Title": "samiya",
     "Theme": "Blue",
-    "Admin": "Ayan",
+    "Admin": "samiya",
     "Setup": {
       "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
